@@ -1,3 +1,5 @@
+# Methode d'assemblage de la matrice si les especes ont ete traitees en n fractions :
+
 centro='/home/ninon.robin/Methode_Generic/output/centro.tsv'
 
 nom_fraction_1_species='/home/ninon.robin/Methode_Generic/output/species_*nom_fraction*.tsv'
