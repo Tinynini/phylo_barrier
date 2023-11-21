@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Methode d'assemblage de la matrice si les especes ont ete traitees en seul run du script precedent :
 
 centro='/home/ninon.robin/Methode_Generic/output/centro.tsv'
