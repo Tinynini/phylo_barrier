@@ -1,6 +1,6 @@
 # Explication sur le contenu de ce github :
 
-Ce github donne accès à l'ensemble des scripts R et bash permettant d'appliquer ma méthode d'analyse des partages de gènes bacterien de façon "casi" générique. La numérotation des scripts permet de savoir dans quel ordre ils doivent être utilisés, le scripts 2-00-main.R permettant de lancer directement l'ensemble des scripts R.
+Ce github donne accès à l'ensemble des scripts R et bash permettant d'appliquer ma méthode d'analyse des partages de gènes bactériens de façon "casi" générique. La numérotation des scripts permet de savoir dans quel ordre ils doivent être utilisés, le scripts 2-00-main.R permettant de lancer directement l'ensemble des scripts R.
 
 **Les scripts bash :**
 
