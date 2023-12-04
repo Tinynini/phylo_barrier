@@ -18,7 +18,7 @@ La méthodes de fractionnement de la liste des fichiers TSV dans le 1er script e
 
 **Les scripts R :**
 
-L'ensemble des scripts R peuvent être lancer d'un seul coup via le script 2-00-main.R, mais ils peuvent aussi être lancer un par un, au grés de l'utilisateur.
+L'ensemble des scripts R peut être lancer d'un seul coup via le script 2-00-main.R, mais ils peuvent aussi être lancer un par un, au grés de l'utilisateur.
 
 2-01-02_alt.R : Sert à nétoyer la matrice et à récupérer les noms d'espèce dans une nouvelle structure.
 	
