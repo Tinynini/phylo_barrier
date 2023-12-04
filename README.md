@@ -23,7 +23,7 @@ L'ensemble des scripts R peut être lancer d'un seul coup via le script 2-00-mai
 2-01-02_alt.R : Sert à nétoyer la matrice et à récupérer les noms d'espèce dans une nouvelle structure.
 	
 2-03-Taxonomy_Parser.R : Sert à nétoyer les 2 versions de la table de taxonomie. 
---> /!\ Un traitement vise à éviter certains doublons lors du join dans le script suivant par l'utilisation successif d'une fonction sur différents cas d'espèces dont la taxonomie semble contenir une erreur ou bien être obsolète. De nouveaux cas similaires sont succeptibles de se présenter si des espèces que je n'ai encore jamais traitées devaient sortir en output de DIAMOND. Je vous invite à appliquer la fonction utilisée lors de ce traitement à ces nouveaux cas lorsque c'est possible pour limiter les cas à traiter (déjà nombreux) dans le script suivant.
+--> /!\ Un traitement vise à éviter certains doublons lors du join dans le script suivant par l'utilisation successif d'une fonction sur différents cas d'espèces dont la taxonomie semble contenir une erreur ou bien être obsolète. De nouveaux cas similaires sont succeptibles de se présenter si des espèces que je n'ai encore jamais traitées devaient sortir en output de DIAMOND. Je vous invite à appliquer la fonction utilisée lors de ce traitement à ces nouveaux cas lorsque c'est possible pour limiter les cas à traiter déjà nombreux dans le script suivant.
 	
 2-04-Taxo_Join.R : Sert à associer leur taxonomies à un maximum de nos espèce dans la nouvelle structure (présence de traitements à adapter en fonction des données !).
 	
