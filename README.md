@@ -14,7 +14,7 @@ Le 3ème script version bis sert à assembler la matrice à partir des outputs o
 
 /!\ N.B. : 
 
-La méthodes de fractionnement de la liste des espèces dans le 1er script et celle de la version bis du 3ème script doivent être adaptées en fonction du nombre n de fractions. Par ailleurs, dans le cas de la méthode de fractionnement, les numéros de lignes délimitant les fractions doivent s'enchainer. C'est à dire que le numéro de la ligne de départ d'une fraction i doit toujour être égale à 1 + celui de la ligne de fin de la fraction i - 1. Et le numéro de ligne de fin de la dernière fraction doit être égale au numéro de la dernière ligne non vide du fichier contenant la liste des espèces. 
+La méthodes de fractionnement de la liste des fichiers TSV dans le 1er script et celle de la version bis du 3ème script doivent être adaptées en fonction du nombre n de fractions. Par ailleurs, dans le cas de la méthode de fractionnement, les numéros de lignes délimitant les fractions doivent s'enchainer. C'est à dire que le numéro de la ligne de départ d'une fraction i doit toujour être égale à 1 + celui de la ligne de fin de la fraction i - 1. Et le numéro de ligne de fin de la dernière fraction doit être égale au numéro de la dernière ligne non vide du fichier contenant la liste des fichiers TSV. 
 
 **Les scripts R :**
 
