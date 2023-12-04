@@ -33,7 +33,7 @@ L'ensemble des scripts R peut être lancer d'un seul coup via le script 2-00-mai
 	
 2-07-Matrix_Plot.R : Sert à générer les barplots de présence/absence d'un gène donné à un niveau j au sein de chacun des ses représentant à un niveau inférieur i.
 	
-2-08-Taxo_Filter_Plot.R : Sert à générer les histogrammes des nombres d'occurrence des valeurs de partages de gènes.
+2-08-Taxo_Filter_Plot.R : Sert à générer les histogrammes des nombres d'occurrences des valeurs de partages de gènes.
 	
 2-09-Tree_Pruner.R : Sert à obtenir les arbres de nos espèces aux 6 niveaux taxonomique à partir de celui associé à la table de taxonomie.
 		
