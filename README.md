@@ -35,7 +35,7 @@ L'ensemble des scripts R peut être lancer d'un seul coup via le script 2-00-mai
 	
 2-08-Taxo_Filter_Plot.R : Sert à générer les histogrammes des nombres d'occurrences des valeurs de partages de gènes.
 	
-2-09-Tree_Pruner.R : Sert à obtenir les arbres de nos espèces aux 6 niveaux taxonomique à partir de celui associé à la table de taxonomie.
+2-09-Tree_Pruner.R : Sert à obtenir les arbres de nos espèces aux 6 niveaux taxonomiques à partir de celui associé à la table de taxonomie.
 		
 2-10-Tree_Plot.R : Sert à obtenir aux 6 niveaux taxonomiques les sous-arbres associés à chaques partages et le plot de ceux-ci pour 4 gènes données, les histogrammes des distances totales des sous-arbres et les plots de l'arbre complet avec et sans les sous-arbres visibles. Les 4 gènes dont on plots les sous-abres doivent être choisis afin de représenter un partage important, 2 partages moyens distincts, et un petit partage.
 
